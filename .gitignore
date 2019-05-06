@@ -89,3 +89,10 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# pycharm
+.idea/
+
+.DS_Store
+
+*.ini

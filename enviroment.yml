@@ -1,0 +1,7 @@
+name: stava_reader
+dependencies:
+  - python >= 3.7.*
+  - pandas
+  - pip
+  - pip:
+      - stravalib
