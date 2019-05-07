@@ -95,4 +95,5 @@ ENV/
 
 .DS_Store
 
-*.ini
+*.json
+
