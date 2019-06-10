@@ -1,7 +1,7 @@
 import os
 import json
 
-from strava_reader.utils.directories import PROJECT_ROOT_DIR
+from utils.directories import PROJECT_ROOT_DIR
 
 
 class Config(object):
