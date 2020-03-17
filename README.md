@@ -1,3 +1,3 @@
 # res_strava_reader
 
-for using the strava api to get info on people exersising at res
+for using the strava api to get info on people exersising at res: https://developers.strava.com/
